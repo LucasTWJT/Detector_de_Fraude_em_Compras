@@ -1,4 +1,4 @@
-# Detector de Fraude em Transições
+# Detector de Fraude em Transações
 ---
 
 ## Objetivo
